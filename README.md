@@ -17,7 +17,7 @@ This script helps you on Android protesting when you want to send queries to som
 > Python3.*
 
 ####Run
-At first you should clone the repositoty
+At first you should clone the repository
 > git clone https://github.com/majidmc2/contpro_chk
 
 Then run contpro-chk.py by **Python3.***
