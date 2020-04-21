@@ -27,8 +27,8 @@ def connection(uri, grep=None):
 
 
 def main():
-    parser = argparse.ArgumentParser(prog="cont_chk",
-                                     usage="python3 cont_chk.py [options]",
+    parser = argparse.ArgumentParser(prog="contpro_chk",
+                                     usage="python3 contpro_chk.py [options]",
                                      description="""This script checks all of your Android Content-Providers and 
                                      shows output of them""")
     parser.add_argument('-u', nargs='?', type=str, help='A spacial URI')
