@@ -9,12 +9,13 @@
 ```                       
 
 ## About
-This script helps you on Android protesting when you want to send queries to some ***Android Content-Provider***. This script can check a URI or a list of them and also if you are looking for a special text, it can show the output by grabbing it.
+This script helps you on Android pentesting when you want to send queries to some ***Android Content-Provider***. This script can check a URI or a list of them and also if you are looking for a special text, it can show the output by grabbing it.
 
 ----
 ## Installation
 #### Requirements
 > Python3.*
+> adb
 
 #### Run
 At first you should clone the repository
