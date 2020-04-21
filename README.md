@@ -15,6 +15,7 @@ This script helps you on Android pentesting when you want to send queries to som
 ## Installation
 #### Requirements
 > Python3.*
+
 > adb
 
 #### Run
