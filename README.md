@@ -24,6 +24,7 @@ At first you should clone the repository
 
 Then run contpro-chk.py by **Python3.***
 > cd contpro-chk
+
 > python3.7 contpro-chk.py --help
 
 Output of help:
