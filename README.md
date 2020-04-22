@@ -20,7 +20,7 @@ This script helps you on Android pentesting when you want to send queries to som
 
 #### Run
 At first you should clone the repository
-> git clone https://github.com/majidmc2/contpro_chk
+> git clone https://github.com/majidmc2/contpro-chk
 
 Then run contpro-chk.py by **Python3.***
 > cd contpro-chk
